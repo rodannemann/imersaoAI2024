@@ -1,4 +1,4 @@
-# ImersaoAI2024 Alura
+# ImersaoAI2024 - Alura
 
 ## Classificação Inteligente de Posts em Mídias Sociais para Maximização de Receitas: Um Estudo de Caso com um Grande Time de Futebol Brasileiro
 
